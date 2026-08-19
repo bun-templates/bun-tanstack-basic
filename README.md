@@ -20,6 +20,12 @@ To build for production:
 bun run build
 ```
 
+To preview the production build locally:
+
+```bash
+bun run serve
+```
+
 ## About TanStack Start
 
 [TanStack Start](https://tanstack.com/start/latest) is a full-stack framework powered by TanStack Router for React and Solid that provides:
