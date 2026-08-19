@@ -36,6 +36,6 @@ bun run serve
 - Built-in data loading with route loaders
 - Hot module replacement (HMR)
 
-This project was created using `bun init --react=tanstack` in bun v1.3.3. [Bun](https://bun.com) is a fast all-in-one JavaScript runtime.
+This project was created using `bun init --react=tanstack` in bun v1.4.0. [Bun](https://bun.com) is a fast all-in-one JavaScript runtime.
 
 For more information, check out Bun's [TanStack Start guide](https://bun.com/guides/ecosystem/tanstack-start).
